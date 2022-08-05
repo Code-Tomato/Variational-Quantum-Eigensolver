@@ -1,18 +1,4 @@
 # Variational-Quantum-Eigensolver
 
-## Devlog
-
-### 7/26/22
-#### Nathan
-- Test
-
-#### Zeel
-- Zeel's Test
-
-### 7/27/22
-#### Zeel
-- Second Test
-
-### 7/28/22
-### Jason
-- Test
+This was a project I did with a group in MIT BWSI's Quantum Coding Course.
+We used classical libraries to run the quantum section. 
